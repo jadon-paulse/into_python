@@ -1,0 +1,18 @@
+a = [5, 6, 7]
+b = [3, 6 , 10]
+
+Enter
+    get inputs for a
+    get inputs for b
+    convert a into list
+    convert b into list
+    FOR (length=3)
+        if a(index) > b(index)
+            increment alice's score by 1
+        ELSE IF a(index) < b(index)
+            increment bobs's score by 1
+        ELSE
+            do nothing
+        ENDFOR
+Exit
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CS Dojo Practice/.idea/CS Dojo Practice.iml" filepath="$PROJECT_DIR$/../CS Dojo Practice/.idea/CS Dojo Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProjects/.idea/PythonProjects.iml" filepath="$PROJECT_DIR$/../PythonProjects/.idea/PythonProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week2/.idea/Week2.iml" filepath="$PROJECT_DIR$/../Week2/.idea/Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week5/.idea/Week5.iml" filepath="$PROJECT_DIR$/../Week5/.idea/Week5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week6/.idea/Week6.iml" filepath="$PROJECT_DIR$/../Week6/.idea/Week6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week7/.idea/Week7.iml" filepath="$PROJECT_DIR$/../Week7/.idea/Week7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week8/.idea/Week8.iml" filepath="$PROJECT_DIR$/../Week8/.idea/Week8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/week3.iml" filepath="$PROJECT_DIR$/.idea/week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../week4/.idea/week4.iml" filepath="$PROJECT_DIR$/../week4/.idea/week4.iml" />
+    </modules>
+  </component>
+</project>
